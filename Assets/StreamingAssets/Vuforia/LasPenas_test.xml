@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="VipretesaLong" size="20.000000 2.868526" />
+    <ImageTarget name="Vipretesa" size="10.000000 4.971751" />
+    <ImageTarget name="DasBuho" size="10.000000 6.746507" />
+    <ImageTarget name="mim_target" size="10.000000 6.910000" />
+  </Tracking>
+</QCARConfig>

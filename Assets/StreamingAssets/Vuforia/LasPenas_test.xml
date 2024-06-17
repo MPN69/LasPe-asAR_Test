@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig>
   <Tracking>
-    <ImageTarget name="VipretesaLong" size="20.000000 2.868526" />
-    <ImageTarget name="Vipretesa" size="10.000000 4.971751" />
-    <ImageTarget name="DasBuho" size="10.000000 6.746507" />
-    <ImageTarget name="mim_target" size="10.000000 6.910000" />
+    <ImageTarget name="Fruta" size="8.000000 7.117241" />
+    <ImageTarget name="Logo" size="11.000000 15.022573" />
+    <ImageTarget name="Planta2" size="10.000000 14.200000" />
+    <ImageTarget name="Maquina2" size="11.000000 13.660000" />
+    <ImageTarget name="Serpiente" size="8.000000 9.233266" />
+    <ImageTarget name="Sobrinos" size="11.000000 13.635209" />
+    <ImageTarget name="Tuneles" size="8.000000 8.000000" />
+    <ImageTarget name="Yo" size="10.000000 11.550256" />
+    <ImageTarget name="Trilladora2" size="6.000000 5.336207" />
+    <ImageTarget name="Planta" size="6.000000 5.327586" />
+    <ImageTarget name="manuel" size="10.000000 14.235033" />
+    <ImageTarget name="Mario" size="10.000000 16.490871" />
   </Tracking>
 </QCARConfig>
